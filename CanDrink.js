@@ -1,5 +1,5 @@
 //basic function to check a users age and determin if they are able to drink.
-
+//just a test function to check if a user is of age to drink.
 
 //Custom Person Class 
 /* class Person {
