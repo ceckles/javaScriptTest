@@ -1,4 +1,5 @@
 //a javaScript console terminal user input test.
+//Date: Mar 24 2021
 
 const readline = require("readline");
 const rl = readline.createInterface({
